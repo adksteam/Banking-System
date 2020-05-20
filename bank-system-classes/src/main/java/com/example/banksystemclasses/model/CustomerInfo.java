@@ -40,9 +40,11 @@ public class CustomerInfo
     private String panNo;
 
     @Embedded
+    @Valid	
     Customer customer;
 
     @Embedded
+    @Valid	
     CustomerContact customerContact;
 
 	public Long getId() {
