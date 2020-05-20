@@ -6,6 +6,8 @@ import lombok.Getter;
 import lombok.Setter;
 import javax.persistence.*;
 import javax.validation.constraints.*;
+import javax.validation.Valid;
+
 
 @Entity
 @Table(name = "Customers_info")
