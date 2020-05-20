@@ -1,0 +1,39 @@
+{
+    "password": "1234",
+    "aadhaarNo": "546557503397",
+    "panNo": "DAKPA7739H",
+    "customer": {
+        "firstName": "Atik",
+        "lastName": "Agarwal",
+        "dob": "1970-01-01"
+    },
+    "customerContact": {
+        "address": "Raipur, CG",
+        "city": "Raipur",
+        "zipCode": "492099",
+        "state": "CG",
+        "country": "India",
+        "mobileNo": "8717892888",
+        "email": "atikagarwal4@gmail.com"
+    }
+}
+
+{
+    "password":"pratik15",
+    "aadhaarNo":"546512544397",
+    "panNo":"DAKPA7983H",
+    "customer":{
+    	"firstName":"Pratik",
+    	"lastName":"Agarwal",
+    	"dob":"2001-01-15"
+    },
+    "customerContact":{
+    	"address": "Kolkata, WestBengal",
+    	"city": "Kolkata",
+    	"zipCode":"700120",
+    	"state":"WB",
+    	"country":"India",
+    	"mobileNo":"8839190107",
+    	"email": "pratikagarwal@gmail.com"
+    }
+}
